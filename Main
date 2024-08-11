@@ -27,7 +27,7 @@ local Script = {
 }
 -- // Table \\ --
 local utility = {
-   name = "Federal",
+   name = "federal.win",
    folder = "hvh",
    invite = "FcvRKPRF",
    mouse_args = {
@@ -38,7 +38,7 @@ local utility = {
       "GetMousePos",
       "GetMouse",
    },
-   ver = "Paid",
+   ver = "buyer",
    options = {
       notifications = {
          enabled = true,
@@ -236,7 +236,7 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0.0412108526, 0, 0.0654205605, 0)
 Title.Size = UDim2.new(0.822695017, 0, 0.17757009, 0)
 Title.Font = Enum.Font.GothamBold
-Title.Text = "Federal v"..utility.ver
+Title.Text = "federal.win"..utility.ver
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 18.000
 Title.TextXAlignment = Enum.TextXAlignment.Left
